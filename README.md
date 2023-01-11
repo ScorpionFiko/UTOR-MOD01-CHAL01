@@ -14,11 +14,11 @@ Reporsitory containing the modified codebase that has been refactored to follow 
 
 ## Installation
 
-No installation requirements. Follow the URL to https://scorpionfiko.github.io/UTOR-MOD01-CHAL01/ to open the webpage in the browser.
+No installation requirements. Click the URL https://scorpionfiko.github.io/UTOR-MOD01-CHAL01/ to open the webpage in your default browser.
 
 ## Usage
 
-For viewing the code:
+For viewing the code:<br />
 Method 1:
 - Access the web page via web browser.
 - Right click on the page and select "view page source"
