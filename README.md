@@ -3,7 +3,10 @@ University of Toronto - Bootcamp - Module 01 - Challenge 01 - Repo
 
 ## Description
 
-Reporsitory containing the modified codebase that has been refactored to follow accessibility standards. The changes to the codebase are "behing the scenes" and the user will not see any difference in behaviour of the webpage. 
+Reporsitory containing the modified codebase that has been refactored to follow accessibility standards. The changes to the codebase are "behing the scenes" and the user will not see any difference in behaviour of the webpage. The following two screen shots show the original and the updated version. Chrome developer tools were used to show the difference in HTML tags between the versions. 
+
+![Original webpage](./assets/images/screenshot_original.png)
+![Updated webpage](./assets/images/screenshot_updated.png)
 
 ## Table of Contents
 
